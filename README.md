@@ -46,4 +46,8 @@ A programmer on a jorney to become an Ai/ML enginner.
 5. **Push to GitHub** → `git push origin main`
 6. **Code is live on GitHub!** 😎
 
-- Fork :  A ruff copy of any repo is called fork : we can copy any repo same to same using fork in github . S
+- Fork :  A ruff copy of any repo is called fork : we can copy any repo same to same using fork in github . 
+
+# 📚 Resources Where I Learned Git & GitHub :
+- Youtube channel : Apna collage (link : https://youtu.be/Ez8F0nW6S-w?si=fHvFVUUYhmnnfUOk).
+- Ai tool : claude (Asked questions and cleared doubts about Git & GitHub).
